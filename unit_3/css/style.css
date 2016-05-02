@@ -1,17 +1,22 @@
-h1 {
-	font-family: arial, sans-serif;
-	font-size: 24px;
-	text-align: center;
-}
-body {
-	text-align: center;
-	background-image: url("images/marketing-education-important.jpg");
-  	background-size: cover;
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two);
 
+body {
+	color: white;
+	background-image: url(images/marketing-education-important.jpg);
+	text-align: center;
+	background-color: #000000;
+    background: no-repeat;
 }
+
+h1 {
+	font-family: 'Lobster Two', cursive;
+	font-size: 60px;
+	text-align: center;
+}
+
 
 #slogan {
 	font-style: italic;
-	font-size: 14px;
+	font-size: 24px;
 	font-family: arial;
 }
